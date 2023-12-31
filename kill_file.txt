@@ -1,6 +1,11 @@
 dailymail.co.uk
 drudgereport.com
+nypost.com
+pagesix.com
 quora.com
 www.dailymail.co.uk
 www.drudgereport.com
 www.quora.com
+www.theepochtimes.com
+www.tmz.com
+wwww.businessinsider.com
